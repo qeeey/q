@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="qiziming"
+  id="myeclipse.1460365212416"
+  context-root="/testzx"
+  j2ee-spec="5.0"
+  archive="qiziming.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
